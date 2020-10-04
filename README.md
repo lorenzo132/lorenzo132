@@ -1,7 +1,4 @@
 <p>&nbsp;</p>
-<table>
-<tbody>
-<tr>
 <th>&nbsp;</th>
 </tr>
 <tr>
